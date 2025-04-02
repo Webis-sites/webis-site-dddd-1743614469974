@@ -1,11 +1,60 @@
 {
-  "timestamp": "2025-04-02T17:21:09.975Z",
+  "timestamp": "2025-04-02T17:21:34.383Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 8,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and call to action for the gym"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the gym's background, experience, and unique value proposition"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the gym's professional services with details"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Gallery showcasing the gym's facilities, equipment, and successful client transformations"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking system for scheduling gym sessions and services"
+    },
+    {
+      "name": "TechFeatures",
+      "type": "features",
+      "status": "pending",
+      "description": "Highlight of the technological features and innovations of the gym"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Final call to action section encouraging visitors to book a session"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with contact information, social media links, and site navigation"
+    }
+  ],
   "repoName": ""
 }
