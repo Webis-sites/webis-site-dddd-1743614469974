@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-02T17:26:38.469Z",
+  "timestamp": "2025-04-02T17:27:07.325Z",
   "status": {
     "totalComponents": 8,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 63
+    "progress": 75
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "TechFeatures",
       "type": "features",
-      "status": "pending",
+      "status": "completed",
       "description": "Highlight of the technological features and innovations of the gym"
     },
     {
