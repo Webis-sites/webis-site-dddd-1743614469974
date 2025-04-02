@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-02T17:22:37.408Z",
+  "timestamp": "2025-04-02T17:23:32.017Z",
   "status": {
     "totalComponents": 8,
-    "completedComponents": 2,
+    "completedComponents": 3,
     "failedComponents": 0,
-    "progress": 25
+    "progress": 38
   },
   "components": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "ServicesSection",
       "type": "services",
-      "status": "pending",
+      "status": "completed",
       "description": "Showcase of the gym's professional services with details"
     },
     {
